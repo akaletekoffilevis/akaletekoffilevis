@@ -6,7 +6,7 @@ Passionné par le **développement web**, j’aime transformer des idées en sol
 
 ## 🛠️ Compétences techniques
 
-- **Langages** : HTML, CSS, PHP, MySQL, C  
+- **Langages** : HTML, CSS, PHP, MySQL, C
 - **Outils** : Git, GitHub, VS Code  
 - **Systèmes** : Windows (ouvert à Linux et autres environnements)
 
