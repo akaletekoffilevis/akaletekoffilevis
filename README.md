@@ -4,7 +4,7 @@
 
 ## 🛠️ Compétences techniques
 
-- Langages : HTML, CSS, PHP, MySQL, C, Shell
+- Langages : HTML, CSS, PHP, MySQL, C
 - Outils : Git, VS Code, Composer
 - Systèmes : Windows
 
