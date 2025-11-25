@@ -33,8 +33,8 @@ N’hésite pas à me contacter pour discuter d’idées, proposer un partenaria
 ## 📫 Me contacter
 
 - 📧 **Email** : [l.akalete20@gmail.com](mailto:l.akalete20@gmail.com)
-- 🔗 **LinkedIn** : [linkedin.com/in/akalete-koffilevis](https://linkedin.com/in/akalete-koffilevis)
-- 📱 **WhatsApp** : [+227 91 53 52 20](https://wa.me/0022791535220)
+- 🔗 **LinkedIn** : [AKALETE KOFFI LEVIS](https://linkedin.com/in/akalete-koffilevis)
+- 📱 **WhatsApp** : [AKALETE KOFFI LEVIS](https://wa.me/0022791535220)
 
 Merci d’être passé·e sur mon profil GitHub ! 🚀  
 À très vite pour coder ensemble 😊
