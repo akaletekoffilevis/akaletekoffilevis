@@ -6,9 +6,15 @@ Passionné par le **développement web**, j’aime transformer des idées en sol
 
 ## 🛠️ Compétences techniques
 
+<<<<<<< HEAD
 - **Langages** : HTML, CSS, PHP, MySQL, C
 - **Outils** : Git, GitHub, VS Code  
 - **Systèmes** : Windows (ouvert à Linux et autres environnements)
+=======
+- Langages : HTML, CSS, PHP, MySQL, C
+- Outils : Git, VS Code, Composer
+- Systèmes : Windows
+>>>>>>> aacc51b83472d6d6db8cdfaca42e9eaa41fa107f
 
 ## 📂 Mes Projets
 
@@ -30,6 +36,7 @@ Plus de projets open-source à venir très bientôt !
 Je suis **ouvert à toute collaboration** sur des projets web, backend, ou même des outils éducatifs/mathématiques.  
 N’hésite pas à me contacter pour discuter d’idées, proposer un partenariat ou partager des opportunités (stages, contributions open-source…).
 
+<<<<<<< HEAD
 ## 📫 Me contacter
 
 - 📧 **Email** : [l.akalete20@gmail.com](mailto:l.akalete20@gmail.com)
@@ -38,3 +45,8 @@ N’hésite pas à me contacter pour discuter d’idées, proposer un partenaria
 
 Merci d’être passé·e sur mon profil GitHub ! 🚀  
 À très vite pour coder ensemble 😊
+=======
+📧 Email : l.akalete20@gmail.com  
+🔗 LinkedIn : [Monprofil](https://linkedin.com/in/akalete-koffilevis)  
+📱 WhatsApp : [Me contacter](https://wa.me/0022791535220)
+>>>>>>> aacc51b83472d6d6db8cdfaca42e9eaa41fa107f
