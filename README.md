@@ -14,10 +14,10 @@ Passionné par le **développement web**, j’aime transformer des idées en sol
 
 Voici quelques projets sur lesquels je travaille ou que j’ai réalisés  :
 
-- **[NextDev API]** → Description courte (API [Fait En Equipe] POUR MON EQUIPE DANKASSAWA)  
+- **[NextDev API]** → API [Fait En Equipe] POUR MON EQUIPE DANKASSAWA  Lors D'une Formation
   → [NEXTDev API](https://github.com/akaletekoffilevis/nextdevapi)
 
-- **[APPLICATION DE GESTION DES ETUDIANTS AU CONSOLE]** → Description courte (Application De Gestion Des Etudiant [Console] en C#)  
+- **[APPLICATION DE GESTION DES ETUDIANTS AU CONSOLE]** → Application De Gestion Des Etudiant [Console] en C# 
   → [STUDENTS CONSOLE MANAGER](https://github.com/akaletekoffilevis/studentconsolemanager)
 
 
