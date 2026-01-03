@@ -12,16 +12,14 @@ Passionné par le **développement web**, j’aime transformer des idées en sol
 
 ## 📂 Mes Projets
 
-<!-- Voici quelques projets sur lesquels je travaille ou que j’ai réalisés  :
+Voici quelques projets sur lesquels je travaille ou que j’ai réalisés  :
 
-- **[Nom du Projet 1]** → Description courte (ex : Site de gestion de bibliothèque en PHP & MySQL)  
-  → [Lien vers le repo](#)
+- **[NextDev API]** → Description courte (API [Fait En Equipe] POUR MON EQUIPE DANKASSAWA)  
+  → [NEXTDev API](https://github.com/akaletekoffilevis/nextdevapi)
 
-- **[Nom du Projet 2]** → Description courte (ex : Application de calculs mathématiques en C)  
-  → [Lien vers le repo](#)
+- **[APPLICATION DE GESTION DES ETUDIANTS AU CONSOLE]** → Description courte (Application De Gestion Des Etudiant [Console] en C#)  
+  → [STUDENTS CONSOLE MANAGER](https://github.com/akaletekoffilevis/studentconsolemanager)
 
-- **[Nom du Projet 3]** → Description courte  
-  → [Lien vers le repo](#) -->
 
 Plus de projets open-source à venir très bientôt !
 
