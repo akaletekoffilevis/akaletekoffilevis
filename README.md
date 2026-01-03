@@ -14,11 +14,14 @@ Passionné par le **développement web**, j’aime transformer des idées en sol
 
 Voici quelques projets sur lesquels je travaille ou que j’ai réalisés  :
 
-- **[NextDev API]** → API [Fait En Equipe] POUR MON EQUIPE DANKASSAWA  Lors D'une Formation
-  → [NEXTDev API](https://github.com/akaletekoffilevis/nextdevapi)
+- **[APPLICATION DE GESTION DES ETUDIANTS AU CONSOLE]**   → Application De Gestion Des Etudiant [Console] en C# 
+→ [STUDENTS CONSOLE MANAGER](https://github.com/akaletekoffilevis/studentconsolemanager)
 
-- **[APPLICATION DE GESTION DES ETUDIANTS AU CONSOLE]** → Application De Gestion Des Etudiant [Console] en C# 
-  → [STUDENTS CONSOLE MANAGER](https://github.com/akaletekoffilevis/studentconsolemanager)
+- **[NextDev API]**   → API [Fait En Equipe] POUR MON EQUIPE DANKASSAWA  Lors D'une Formation
+→ [NEXTDev API](https://github.com/akaletekoffilevis/nextdevapi)
+
+- **[NextDev BLAZOR APP]**   → APPLICATION [Fait En Equipe] POUR LA PRESENTATION DE MON EQUIPE DANKASSAWA  Lors D'une Formation
+→ [NEXTDev BLAZOR APP](https://github.com/akaletekoffilevis/nextdevblazor-app)
 
 
 Plus de projets open-source à venir très bientôt !
