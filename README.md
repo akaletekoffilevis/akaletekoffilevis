@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/akalete-koffilevis">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <!-- TODO: Ajouter le domaine email complet (ex: @gmail.com) -->
+    <!-- TODO: Vérifier et corriger le domaine email si nécessaire -->
     <a href="mailto:l.akalete20@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -29,7 +29,7 @@
   <h2>🛠️ Tech Stack</h2>
 
   <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/java%20script-yellow?style=for-the-badge&logo=javascript" alt="JS" />
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
