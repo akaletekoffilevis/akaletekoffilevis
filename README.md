@@ -50,10 +50,3 @@
 
 ---
 
-<div align="center">
-  <h2>📈 Statistiques GitHub</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=akaletekoffilevis&show_icons=true&theme=radical" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaletekoffilevis&layout=compact&theme=radical" alt="Top Langs" />
-</div>
