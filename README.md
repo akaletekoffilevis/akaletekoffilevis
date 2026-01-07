@@ -21,7 +21,6 @@
 
 - 🔭 Je travaille actuellement sur des projets **.NET et Web**.
 - 🌱 J'apprends continuellement de nouvelles technologies.
-- 💬 Demandez-moi n'importe quoi sur le **C# ou le développement Web**.
 
 ---
 
