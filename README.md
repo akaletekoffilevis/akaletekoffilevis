@@ -1,41 +1,34 @@
 
-# 👋 Salut, je suis Akalete Koffi Levis
-
-Je suis étudiant en **Mathématiques et Informatique** à l’Université Abdou Moumouni de Niamey, Niger.  
-Passionné par le **développement web**, j’aime transformer des idées en solutions concrètes grâce à la programmation. Je travaille activement sur des projets personnels et universitaires, et je suis motivé à contribuer à l’open-source ainsi qu’à collaborer sur des initiatives innovantes.
-
-## 🛠️ Compétences techniques
-
-- **Langages** : HTML, CSS, PHP, MySQL, C, C#, React
-- **Outils** : Git, GitHub, VS Code  
-- **Systèmes** : Windows (ouvert à Linux et autres environnements)
-
-## 📂 Mes Projets
-
-Voici quelques projets sur lesquels je travaille ou que j’ai réalisés  :
-
-- **[APPLICATION DE GESTION DES ETUDIANTS AU CONSOLE]**   → Application De Gestion Des Etudiant [Console] en C# 
-→ [STUDENTS CONSOLE MANAGER](https://github.com/akaletekoffilevis/studentconsolemanager)
-
-- **[NextDev API]**   → API [Fait En Equipe] POUR MON EQUIPE DANKASSAWA  Lors D'une Formation
-→ [NEXTDev API](https://github.com/akaletekoffilevis/nextdevapi)
-
-- **[NextDev BLAZOR APP]**   → APPLICATION [Fait En Equipe] POUR LA PRESENTATION DE MON EQUIPE DANKASSAWA  Lors D'une Formation
-→ [NEXTDev BLAZOR APP](https://github.com/akaletekoffilevis/nextdevblazor-app)
+# 👋 Hi, I'm Akalete Koffi Levis
 
 
-Plus de projets open-source à venir très bientôt !
+## 🌐 Socials:
 
-## 🤝 Collaboration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akalete-koffilevis) <!--  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://akaletekoffilevis.github.io/portfolio/) -->
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:l.akalete20@.com)
 
-Je suis **ouvert à toute collaboration** sur des projets web, backend, ou même des outils éducatifs/mathématiques.  
-N’hésite pas à me contacter pour discuter d’idées, proposer un partenariat ou partager des opportunités (stages, contributions open-source…).
+---
 
-## 📫 Me contacter
+# 🛠️ Tech Stack
 
-- 📧 **Email** : [l.akalete20@gmail.com](mailto:l.akalete20@gmail.com)
-- 🔗 **LinkedIn** : [AKALETE KOFFI LEVIS](https://linkedin.com/in/akalete-koffilevis)
-- 📱 **WhatsApp** : [AKALETE KOFFI LEVIS](https://wa.me/0022791535220)
+### Langages
+![JAVA SCRIPT](https://img.shields.io/badge/java%20script-yellow?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Merci d’être passé·e sur mon profil GitHub ! 🚀  
-À très vite pour coder ensemble 😊
+### Web & Frameworks
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
