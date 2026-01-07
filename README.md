@@ -34,8 +34,8 @@
 
   <h3>Web & Frameworks</h3>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/react-E34F26?style=for-the-badge&logo=react&logoColor=blue" alt="REACT" />
+  <img src="https://img.shields.io/badge/bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" />
 
   <h3>Databases</h3>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
