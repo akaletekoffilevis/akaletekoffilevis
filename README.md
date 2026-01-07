@@ -1,34 +1,60 @@
 
-# 👋 Hi, I'm Akalete Koffi Levis
+<div align="center">
+  <h1>👋 Bonjour, je suis Akalete Koffi Levis</h1>
+  <h3>Développeur Passionné | .NET | Web</h3>
 
+  <p>
+    <!-- Social Links Centered -->
+    <a href="https://linkedin.com/in/akalete-koffilevis">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <!-- TODO: Ajouter le domaine email complet (ex: @gmail.com) -->
+    <a href="mailto:l.akalete20@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-## 🌐 Socials:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akalete-koffilevis) <!--  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://akaletekoffilevis.github.io/portfolio/) -->
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:l.akalete20@.com)
+### 🧐 À propos de moi
+
+- 🔭 Je travaille actuellement sur des projets **.NET et Web**.
+- 🌱 J'apprends continuellement de nouvelles technologies.
+- 💬 Demandez-moi n'importe quoi sur le **C# ou le développement Web**.
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
 
-### Langages
-![JAVA SCRIPT](https://img.shields.io/badge/java%20script-yellow?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  <h3>Languages</h3>
+  <img src="https://img.shields.io/badge/java%20script-yellow?style=for-the-badge&logo=javascript" alt="JS" />
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
-### Web & Frameworks
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <h3>Web & Frameworks</h3>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <h3>Tools</h3>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
 
 ---
+
+<div align="center">
+  <h2>📈 Statistiques GitHub</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=akaletekoffilevis&show_icons=true&theme=radical" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaletekoffilevis&layout=compact&theme=radical" alt="Top Langs" />
+</div>
