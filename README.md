@@ -28,7 +28,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Level:** Junior Developer - Passionate about learning and growing
-- 🏗️ **Focus:** Building microservices architecture with .NET 9, ASP.NET Core, and Cloud infrastructure
+- 🏗️ **Focus:** Building microservices architecture with .NET, ASP.NET Core, and Cloud infrastructure
 - 💼 **Specialization:** Backend development, API design, Database optimization, System architecture
 - 📚 **Learning:** Cloud technologies, DevOps practices, Design patterns
 - 🚀 **Goal:** Develop robust, scalable solutions for production environments
