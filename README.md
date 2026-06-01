@@ -151,19 +151,6 @@ Backend developer specializing in .NET and ASP.NET Core, currently pursuing a Li
 
 ---
 
-## Featured Projects
-
-| | Project | Description | Language | Stars |
-|:---:|---|:---|:---:|:---:|
-| 1 | [Scaffolder-CLI](https://github.com/akaletekoffilevis/Scaffolder-CLI) | CLI universel de génération de projets (40+ commandes, AOT, IA) | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" /> | <img src="https://img.shields.io/github/stars/akaletekoffilevis/Scaffolder-CLI?style=flat-square" /> |
-| 2 | [scaffold-docs](https://github.com/akaletekoffilevis/scaffold-docs) | Site de documentation Scaffolder | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" /> | <img src="https://img.shields.io/github/stars/akaletekoffilevis/scaffold-docs?style=flat-square" /> |
-| 3 | [todosapi](https://github.com/akaletekoffilevis/todosapi) | API REST Todo List avec ASP.NET Core 9 & EF Core | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" /> | <img src="https://img.shields.io/github/stars/akaletekoffilevis/todosapi?style=flat-square" /> |
-| 4 | [Bible](https://github.com/akaletekoffilevis/Bible) | Bible Louis Segond LSG — PWA Blazor WASM .NET 9 | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" /> | <img src="https://img.shields.io/github/stars/akaletekoffilevis/Bible?style=flat-square" /> |
-| 5 | [reservation-system](https://github.com/akaletekoffilevis/reservation-system) | Reservation system | <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/github/stars/akaletekoffilevis/reservation-system?style=flat-square" /> |
-| 6 | [SmartDownloader](https://github.com/akaletekoffilevis/SmartDownloader) | Python download manager | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" /> | <img src="https://img.shields.io/github/stars/akaletekoffilevis/SmartDownloader?style=flat-square" /> |
-
----
-
 <div align="center">
   <a href="https://linkedin.com/in/akalete-koffi-levis">
     <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
