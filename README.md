@@ -129,6 +129,33 @@
 
 ---
 
+
+## 📊 GitHub Statistics
+
+- **Total Repositories:** 24
+- **Original Projects:** 22
+- **Forked Repositories:** 1
+- **Total Stars:** 1
+- **Total Forks:** 1
+
+### 🔤 Languages Used
+- C#: 6 repositoryies
+- HTML: 3 repositoryies
+- Python: 2 repositoryies
+- JavaScript: 2 repositoryies
+- CSS: 2 repositoryies
+- TypeScript: 1 repository
+- Ruby: 1 repository
+- Jupyter Notebook: 1 repository
+
+### 🚀 Recent Activity
+- **challenge-dotnet-niger** (Unknown) - Updated: 2026-06-01
+- **SmartDownloader** (Python) - Updated: 2026-06-01
+- **reservation-system** (JavaScript) - Updated: 2026-06-01
+- **BibleAndroid** (HTML) - Updated: 2026-06-01
+- **SchollApi** (Unknown) - Updated: 2026-05-31
+
+
 ## 📞 Get in Touch
 
 <div align="center">
