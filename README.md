@@ -22,10 +22,8 @@
 
 Backend developer specializing in .NET and ASP.NET Core. I design and build RESTful APIs, microservices, and scalable backend systems with clean architecture and performance in mind.
 
-Areas of focus:
 - RESTful API design & development
-- Microservices architecture
-- Database design & optimization
+- Microservices architecture & database optimization
 - Authentication & authorization (JWT)
 - Docker containerization & CI/CD
 
@@ -34,8 +32,13 @@ Areas of focus:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaletekoffilevis&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaletekoffilevis&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaletekoffilevis&theme=github_dark" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaletekoffilevis&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akaletekoffilevis&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akaletekoffilevis&theme=github_dark" alt="Stats" />
 </div>
 
 <div align="center">
@@ -67,26 +70,14 @@ Areas of focus:
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/akaletekoffilevis/Scaffolder-CLI">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=akaletekoffilevis&repo=Scaffolder-CLI&theme=dark&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/akaletekoffilevis/scaffold-docs">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=akaletekoffilevis&repo=scaffold-docs&theme=dark&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/akaletekoffilevis/todosapi">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=akaletekoffilevis&repo=todosapi&theme=dark&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/akaletekoffilevis/Bible">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=akaletekoffilevis&repo=Bible&theme=dark&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/akaletekoffilevis/reservation-system">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=akaletekoffilevis&repo=reservation-system&theme=dark&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/akaletekoffilevis/SmartDownloader">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=akaletekoffilevis&repo=SmartDownloader&theme=dark&hide_border=true&show_owner=true" />
-  </a>
-</div>
+| Project | Description | Language | Stars |
+|---------|-------------|----------|-------|
+| [Scaffolder-CLI](https://github.com/akaletekoffilevis/Scaffolder-CLI) | CLI universel de génération de projets (40+ commandes, AOT, IA) | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/Scaffolder-CLI?style=flat-square)](https://github.com/akaletekoffilevis/Scaffolder-CLI) | [![](https://img.shields.io/github/stars/akaletekoffilevis/Scaffolder-CLI?style=flat-square)](https://github.com/akaletekoffilevis/Scaffolder-CLI) |
+| [scaffold-docs](https://github.com/akaletekoffilevis/scaffold-docs) | Site de documentation Scaffolder | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/scaffold-docs?style=flat-square)](https://github.com/akaletekoffilevis/scaffold-docs) | [![](https://img.shields.io/github/stars/akaletekoffilevis/scaffold-docs?style=flat-square)](https://github.com/akaletekoffilevis/scaffold-docs) |
+| [todosapi](https://github.com/akaletekoffilevis/todosapi) | API REST Todo List avec ASP.NET Core 9 & EF Core | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/todosapi?style=flat-square)](https://github.com/akaletekoffilevis/todosapi) | [![](https://img.shields.io/github/stars/akaletekoffilevis/todosapi?style=flat-square)](https://github.com/akaletekoffilevis/todosapi) |
+| [Bible](https://github.com/akaletekoffilevis/Bible) | Bible Louis Segond LSG — PWA Blazor WASM .NET 9 | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/Bible?style=flat-square)](https://github.com/akaletekoffilevis/Bible) | [![](https://img.shields.io/github/stars/akaletekoffilevis/Bible?style=flat-square)](https://github.com/akaletekoffilevis/Bible) |
+| [reservation-system](https://github.com/akaletekoffilevis/reservation-system) | Reservation system | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/reservation-system?style=flat-square)](https://github.com/akaletekoffilevis/reservation-system) | [![](https://img.shields.io/github/stars/akaletekoffilevis/reservation-system?style=flat-square)](https://github.com/akaletekoffilevis/reservation-system) |
+| [SmartDownloader](https://github.com/akaletekoffilevis/SmartDownloader) | Python download manager | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/SmartDownloader?style=flat-square)](https://github.com/akaletekoffilevis/SmartDownloader) | [![](https://img.shields.io/github/stars/akaletekoffilevis/SmartDownloader?style=flat-square)](https://github.com/akaletekoffilevis/SmartDownloader) |
 
 ---
 
