@@ -1,70 +1,77 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akaletekoffilevis&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/akaletekoffilevis?style=flat-square&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/akaletekoffilevis?style=flat-square&logo=github&label=Stars" alt="Stars" />
+</div>
+
+<div align="center">
   <h1>Akalete Koffi Levis</h1>
   <h3>Backend Developer | .NET & ASP.NET Core</h3>
-  <p>Niger &middot; Open to remote opportunities</p>
+  <p>Niamey, Niger &middot; Open to remote opportunities</p>
 
-  <p>
-    <a href="mailto:l.akalete20@gmail.com">
-      <img src="https://img.shields.io/badge/Email-l.akalete20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/akalete-koffi-levis">
-      <img src="https://img.shields.io/badge/LinkedIn-akalete--koffi--levis-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/akaletekoffilevis">
-      <img src="https://img.shields.io/badge/GitHub-akaletekoffilevis-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <a href="mailto:l.akalete20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-l.akalete20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/akalete-koffi-levis">
+    <img src="https://img.shields.io/badge/LinkedIn-akalete--koffi--levis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/akaletekoffilevis">
+    <img src="https://img.shields.io/badge/GitHub-akaletekoffilevis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
 ## About
 
-Backend developer specializing in .NET and ASP.NET Core. I design and build RESTful APIs, microservices, and scalable backend systems with clean architecture and performance in mind.
+Backend developer specializing in .NET and ASP.NET Core, currently pursuing a Licence in Mathematics and Computer Science at Université Abdou Moumouni de Niamey. I design and build RESTful APIs, microservices, and scalable backend systems with clean architecture and performance in mind.
 
-- RESTful API design & development
-- Microservices architecture & database optimization
-- Authentication & authorization (JWT)
-- Docker containerization & CI/CD
+- RESTful API design, microservices & database optimization
+- Authentication & authorization (JWT), Docker, CI/CD
+- Clean code, SOLID principles, design patterns
+- Certified: Foundational C# with Microsoft (freeCodeCamp)
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaletekoffilevis&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaletekoffilevis&theme=github_dark" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaletekoffilevis&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akaletekoffilevis&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaletekoffilevis&theme=github_dark" alt="Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akaletekoffilevis&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akaletekoffilevis&theme=github_dark" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akaletekoffilevis&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akaletekoffilevis&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 </div>
 
 ---
 
-## Skills
+## Trophies
 
-### Languages
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=akaletekoffilevis&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
+</div>
 
-### Frameworks & Tools
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akaletekoffilevis&theme=github-dark&hide_border=true" alt="Activity Graph" width="95%" />
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,py,html,css,docker,postgres,redis,git,githubactions" alt="Skills" />
+</div>
 
 ---
 
@@ -72,15 +79,30 @@ Backend developer specializing in .NET and ASP.NET Core. I design and build REST
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
-| [Scaffolder-CLI](https://github.com/akaletekoffilevis/Scaffolder-CLI) | CLI universel de génération de projets (40+ commandes, AOT, IA) | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/Scaffolder-CLI?style=flat-square)](https://github.com/akaletekoffilevis/Scaffolder-CLI) | [![](https://img.shields.io/github/stars/akaletekoffilevis/Scaffolder-CLI?style=flat-square)](https://github.com/akaletekoffilevis/Scaffolder-CLI) |
-| [scaffold-docs](https://github.com/akaletekoffilevis/scaffold-docs) | Site de documentation Scaffolder | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/scaffold-docs?style=flat-square)](https://github.com/akaletekoffilevis/scaffold-docs) | [![](https://img.shields.io/github/stars/akaletekoffilevis/scaffold-docs?style=flat-square)](https://github.com/akaletekoffilevis/scaffold-docs) |
-| [todosapi](https://github.com/akaletekoffilevis/todosapi) | API REST Todo List avec ASP.NET Core 9 & EF Core | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/todosapi?style=flat-square)](https://github.com/akaletekoffilevis/todosapi) | [![](https://img.shields.io/github/stars/akaletekoffilevis/todosapi?style=flat-square)](https://github.com/akaletekoffilevis/todosapi) |
-| [Bible](https://github.com/akaletekoffilevis/Bible) | Bible Louis Segond LSG — PWA Blazor WASM .NET 9 | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/Bible?style=flat-square)](https://github.com/akaletekoffilevis/Bible) | [![](https://img.shields.io/github/stars/akaletekoffilevis/Bible?style=flat-square)](https://github.com/akaletekoffilevis/Bible) |
-| [reservation-system](https://github.com/akaletekoffilevis/reservation-system) | Reservation system | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/reservation-system?style=flat-square)](https://github.com/akaletekoffilevis/reservation-system) | [![](https://img.shields.io/github/stars/akaletekoffilevis/reservation-system?style=flat-square)](https://github.com/akaletekoffilevis/reservation-system) |
-| [SmartDownloader](https://github.com/akaletekoffilevis/SmartDownloader) | Python download manager | [![](https://img.shields.io/github/languages/top/akaletekoffilevis/SmartDownloader?style=flat-square)](https://github.com/akaletekoffilevis/SmartDownloader) | [![](https://img.shields.io/github/stars/akaletekoffilevis/SmartDownloader?style=flat-square)](https://github.com/akaletekoffilevis/SmartDownloader) |
+| [Scaffolder-CLI](https://github.com/akaletekoffilevis/Scaffolder-CLI) | CLI universel de génération de projets (40+ commandes, AOT, IA) | ![](https://img.shields.io/github/languages/top/akaletekoffilevis/Scaffolder-CLI?style=flat-square) | ![](https://img.shields.io/github/stars/akaletekoffilevis/Scaffolder-CLI?style=flat-square) |
+| [scaffold-docs](https://github.com/akaletekoffilevis/scaffold-docs) | Site de documentation Scaffolder | ![](https://img.shields.io/github/languages/top/akaletekoffilevis/scaffold-docs?style=flat-square) | ![](https://img.shields.io/github/stars/akaletekoffilevis/scaffold-docs?style=flat-square) |
+| [todosapi](https://github.com/akaletekoffilevis/todosapi) | API REST Todo List avec ASP.NET Core 9 & EF Core | ![](https://img.shields.io/github/languages/top/akaletekoffilevis/todosapi?style=flat-square) | ![](https://img.shields.io/github/stars/akaletekoffilevis/todosapi?style=flat-square) |
+| [Bible](https://github.com/akaletekoffilevis/Bible) | Bible Louis Segond LSG — PWA Blazor WASM .NET 9 | ![](https://img.shields.io/github/languages/top/akaletekoffilevis/Bible?style=flat-square) | ![](https://img.shields.io/github/stars/akaletekoffilevis/Bible?style=flat-square) |
+| [reservation-system](https://github.com/akaletekoffilevis/reservation-system) | Reservation system | ![](https://img.shields.io/github/languages/top/akaletekoffilevis/reservation-system?style=flat-square) | ![](https://img.shields.io/github/stars/akaletekoffilevis/reservation-system?style=flat-square) |
+| [SmartDownloader](https://github.com/akaletekoffilevis/SmartDownloader) | Python download manager | ![](https://img.shields.io/github/languages/top/akaletekoffilevis/SmartDownloader?style=flat-square) | ![](https://img.shields.io/github/stars/akaletekoffilevis/SmartDownloader?style=flat-square) |
+
+---
+
+## Education & Certifications
+
+| | Institution | Field | Period |
+|---|------------|-------|--------|
+| Licence | Université Abdou Moumouni de Niamey | Mathematics & Computer Science | 2024 - 2028 |
+| BAC D | CSP ASSIFA | Sciences | 2023 - 2024 |
+| Certification | freeCodeCamp / Microsoft | Foundational C# | 2026 |
 
 ---
 
 <div align="center">
-  <a href="mailto:l.akalete20@gmail.com">Contact</a>
+  <a href="mailto:l.akalete20@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
+  <a href="https://linkedin.com/in/akalete-koffi-levis">
+    <img src="https://img.shields.io/badge/Visit%20My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
