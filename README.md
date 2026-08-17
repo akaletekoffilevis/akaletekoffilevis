@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2:2F81F7:512BD4&height=180&section=header&fontAlign=50&text=Koffi%20Levis%20Akalete&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Wave" />
 </p>
 
-<div align="center">
+<div align="center"> 
 
   <img src="phtodemoi.png" alt="Akalete Koffi Levis" width="180" height="180" style="border-radius: 50%; border: 5px solid #2F81F7; box-shadow: 0 0 30px rgba(47, 129, 247, 0.55);" />
 
