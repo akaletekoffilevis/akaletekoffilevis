@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-  <img src="phtodemoi.png" alt="Akalete Koffi Levis" width="180" height="180" style="border-radius: 50%; border: 5px solid #2F81F7; box-shadow: 0 0 30px rgba(47, 129, 247, 0.55);" />
+  <img src="./phtodemoi.png" alt="Akalete Koffi Levis" width="180" height="180" style="border-radius: 50%; border: 5px solid #2F81F7; box-shadow: 0 0 30px rgba(47, 129, 247, 0.55);" />
 
   <h1>Akalete Koffi Levis</h1>
 
