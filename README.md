@@ -6,11 +6,11 @@
   <img src="assets/profile.png" width="150" alt="Portrait of Koffi Lévis Akalete" />
 
   <h1>Koffi Lévis Akalete</h1>
-  <h3>Full Stack Developer · C# / .NET · Blazor · Flutter</h3>
+  <h3>C# / .NET Developer · ASP.NET Core · Blazor</h3>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=30&lines=Secure+REST+APIs+with+ASP.NET+Core;Blazor+WebAssembly+and+React+interfaces;Flutter+mobile+applications;10000+CODEURS+Ambassador;Open+to+remote+opportunities" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=30&lines=Secure+REST+APIs+with+ASP.NET+Core;Blazor+WebAssembly+and+React+interfaces;Flutter+mobile+applications;10000+CODEURS+Ambassador;Open+to+remote+opportunities" alt="Secure REST APIs with ASP.NET Core, Blazor and React interfaces, Flutter mobile applications, 10000 CODEURS Ambassador, open to remote opportunities" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+focused+on+C%23+%2F+.NET;Secure+REST+APIs+with+ASP.NET+Core;Blazor+WebAssembly+applications;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+focused+on+C%23+%2F+.NET;Secure+REST+APIs+with+ASP.NET+Core;Blazor+WebAssembly+applications;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" alt="Full Stack Developer focused on C# and .NET, secure REST APIs with ASP.NET Core, Blazor WebAssembly applications, Flutter and React when needed, 10000 CODEURS Ambassador, open to remote opportunities" />
   </picture>
 
   <br/><br/>
@@ -45,9 +45,10 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-  I'm a <b>Full Stack Developer</b> based in <b>Niamey, Niger</b>, focused on the Microsoft
-  ecosystem: <b>C#</b>, <b>.NET</b>, <b>ASP.NET Core</b> and <b>Blazor</b>. I also build
-  mobile applications with <b>Flutter</b> and web interfaces with <b>React</b> and <b>Next.js</b>.
+  I'm a <b>C# / .NET full stack developer</b> based in <b>Niamey, Niger</b>. My primary
+  stack is <b>C#</b>, <b>ASP.NET Core</b>, <b>Blazor</b>, <b>Entity Framework Core</b>
+  and <b>SQL Server</b>. I also build mobile applications with <b>Flutter</b> and web
+  interfaces with <b>React</b> and <b>Next.js</b> when needed.
 </p>
 
 <p align="center">
@@ -62,6 +63,10 @@
   <tr>
     <td><b>Based in</b></td>
     <td>Niamey, Niger · Remote-friendly</td>
+  </tr>
+  <tr>
+    <td><b>Primary stack</b></td>
+    <td>C# · ASP.NET Core · Blazor · EF Core · SQL Server</td>
   </tr>
   <tr>
     <td><b>Education</b></td>
@@ -93,24 +98,9 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Primary — C# / .NET</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,js,ts,python,php,go,html,css&theme=dark" alt="C#, JavaScript, TypeScript, Python, PHP, Go, HTML, CSS" />
-</p>
-
-<h3 align="center">Backend &amp; Web</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,blazor,react,nextjs&theme=dark" alt=".NET, Blazor, React, Next.js" />
-</p>
-
-<h3 align="center">Mobile &amp; Data</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postgres,mysql,sqlite&theme=dark" alt="Flutter, Dart, Firebase, PostgreSQL, MySQL, SQLite" />
-</p>
-
-<h3 align="center">Tooling &amp; DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,visualstudio&theme=dark" alt="Docker, Git, GitHub, GitHub Actions, Linux, VS Code, Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,blazor&theme=dark" alt="C#, .NET, Blazor" />
 </p>
 
 <p align="center">
@@ -119,7 +109,21 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+<h3 align="center">Additional Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css&theme=dark" alt="JavaScript, TypeScript, Python, PHP, Go, HTML, CSS" />
+</p>
+
+<h3 align="center">Web &amp; Mobile</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart&theme=dark" alt="React, Next.js, Flutter, Dart" />
+</p>
+
+<h3 align="center">Data &amp; Tooling</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,git,github,githubactions,linux,vscode,visualstudio&theme=dark" alt="PostgreSQL, MySQL, SQLite, Firebase, Docker, Git, GitHub, GitHub Actions, Linux, VS Code, Visual Studio" />
 </p>
 
 <br/>
