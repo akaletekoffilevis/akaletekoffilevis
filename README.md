@@ -46,32 +46,39 @@
 
 <h3 align="center">
   I'm a <b>Junior Full Stack Developer</b> based in <b>Niamey, Niger</b>, focused on
-  <b>C#</b> and the <b>.NET</b> ecosystem. My primary stack is <b>ASP.NET Core</b>,
-  <b>Blazor</b>, <b>Entity Framework Core</b> and <b>SQL Server</b>.
+  <b>C#</b> and the <b>.NET</b> ecosystem. I build secure REST APIs with
+  <b>ASP.NET Core</b>, interactive interfaces with <b>Blazor</b>, and data layers with
+  <b>Entity Framework Core</b> and <b>SQL Server</b>.
 </h3>
 
 <h3 align="center">
-  I also build mobile applications with <b>Flutter</b> and web interfaces with
-  <b>React</b> and <b>Next.js</b> when needed. I care about clean architecture,
-  secure authentication, automated tests and clear documentation — the details
-  that make software reliable, not just functional.
+  I also work with <b>Flutter</b>, <b>React</b> and <b>Next.js</b> when a project needs
+  mobile or web frontends. I care about clean architecture, secure authentication,
+  automated tests and clear documentation — the details that make software reliable,
+  not just functional.
 </h3>
 
-<h3 align="center">
-  I'm currently completing a <b>Licence in Mathematics and Computer Science</b> at
-  Université Abdou Moumouni and serving as a <b>10000 CODEURS Ambassador</b>,
-  helping other learners grow.
-</h3>
+<h3 align="center">What I do</h3>
 
-<h3 align="center">
-  <b>Based in</b> · Niamey, Niger — remote-friendly<br/>
-  <b>Primary stack</b> · C# · ASP.NET Core · Blazor · EF Core · SQL Server<br/>
-  <b>Education</b> · Licence Math-Info, Université Abdou Moumouni (in progress)<br/>
-  <b>Currently</b> · Secure APIs and full-stack apps · Learning cloud, DevOps and system design<br/>
-  <b>Community</b> · 10000 CODEURS Ambassador<br/>
-  <b>Spoken languages</b> · French (native) · English (professional)<br/>
-  <b>Availability</b> · Internships · Junior roles · Freelance · Remote
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-C%23%20%C2%B7%20.NET%20%C2%B7%20Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend: C#, .NET, Blazor" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%C2%B7%20Next.js-2F81F7?style=for-the-badge&logo=react&logoColor=white" alt="Frontend: React, Next.js" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%C2%B7%20Dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile: Flutter, Dart" />
+</p>
+
+<h3 align="center">Quick facts</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Niamey%2C%20Niger-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Niamey, Niger" />
+  <img src="https://img.shields.io/badge/Education-Licence%20Math--Info%20%C2%B7%20UAM-512BD4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Education: Licence Math-Info at UAM" />
+  <img src="https://img.shields.io/badge/Community-10000%20CODEURS%20Ambassador-6E7681?style=for-the-badge&logo=handshake&logoColor=white" alt="10000 CODEURS Ambassador" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Availability-Internships%20%C2%B7%20Junior%20roles-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to internships and junior roles" />
+  <img src="https://img.shields.io/badge/Remote-Friendly-2F81F7?style=for-the-badge&logo=zoom&logoColor=white" alt="Remote-friendly" />
+  <img src="https://img.shields.io/badge/Spoken%20languages-French%20%C2%B7%20English-6E7681?style=for-the-badge" alt="French and English" />
+</p>
 
 <br/>
 
@@ -81,18 +88,36 @@
 
 <h2 align="center">Languages</h2>
 
-<h3 align="center">
-  <b>C#</b> · Primary language — REST APIs, Blazor, CLI tools and .NET applications<br/>
-  <b>TypeScript</b> · Next.js, React and Node.js<br/>
-  <b>JavaScript</b> · React, browser apps and Tauri frontends<br/>
-  <b>Dart</b> · Flutter mobile applications<br/>
-  <b>Python</b> · Automation, scripting and algorithms<br/>
-  <b>PHP</b> · Web development<br/>
-  <b>SQL</b> · SQL Server, PostgreSQL, MySQL and SQLite<br/>
-  <b>Rust</b> · Tauri desktop backend<br/>
-  <b>HTML / CSS</b> · Responsive interfaces<br/>
-  <b>Bash</b> · Scripting and deployment
-</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,dart,python,php,postgres,mysql,rust,bash&theme=dark" alt="C#, TypeScript, JavaScript, HTML, CSS, Dart, Python, PHP, PostgreSQL, MySQL, Rust, Bash" />
+</p>
+
+<h3 align="center">Primary</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-APIs%20%C2%B7%20Blazor%20%C2%B7%20.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C# — APIs, Blazor, .NET" />
+</p>
+
+<h3 align="center">Web</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-React%20%C2%B7%20Next.js%20%C2%B7%20Node.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript — React, Next.js, Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-Browser%20apps%20%C2%B7%20Tauri-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript — browser apps, Tauri" />
+  <img src="https://img.shields.io/badge/HTML5-Responsive%20UI-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 — responsive UI" />
+  <img src="https://img.shields.io/badge/CSS3-Responsive%20UI-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 — responsive UI" />
+</p>
+
+<h3 align="center">Mobile &amp; Data</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-Flutter%20apps-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart — Flutter apps" />
+  <img src="https://img.shields.io/badge/Python-Automation%20%C2%B7%20Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python — automation, scripting" />
+  <img src="https://img.shields.io/badge/PHP-Web%20development-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP — web development" />
+  <img src="https://img.shields.io/badge/SQL-SQL%20Server%20%C2%B7%20PostgreSQL%20%C2%B7%20MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL — SQL Server, PostgreSQL, MySQL" />
+</p>
+
+<h3 align="center">Systems &amp; Scripting</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-Tauri%20backend-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust — Tauri backend" />
+  <img src="https://img.shields.io/badge/Bash-Scripting%20%C2%B7%20Deployment-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash — scripting, deployment" />
+</p>
 
 <br/>
 
@@ -137,16 +162,33 @@
   <i>13 credentials earned in 2026 across C#, .NET, Flutter and software engineering.</i>
 </h3>
 
-<h3 align="center">
-  <b>Foundational C# with Microsoft</b> · freeCodeCamp / Microsoft · Jan 2026<br/>
-  <b>Flutter Developer Certifications (5)</b> · NextFlutter · Jul–Sep 2026<br/>
-  <b>Digital Passport &amp; Ambassador Badge</b> · 10000 CODEURS · Mar–Jun 2026<br/>
-  <b>.NET, AI &amp; Robotics</b> · Gabera Foundation · Aug 2026<br/>
-  <b>Web &amp; Mobile Development</b> · E-LEARNING POUR TOUS · Sep 2026<br/>
-  <b>Introduction to C#</b> · Simplilearn · Aug 2026<br/>
-  <b>Climate Change Policy Integration</b> · CILSS / AGRHYMET · Sep 2026<br/>
-  <b>FlutterHackathon 26 — Participant</b> · FlutterHackathon · Sep 2026
-</h3>
+<h3 align="center">C# / .NET</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Foundational%20C%23-freeCodeCamp%20%2F%20Microsoft%20%C2%B7%20Jan%202026-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="Foundational C# with Microsoft — freeCodeCamp / Microsoft, Jan 2026" />
+  <img src="https://img.shields.io/badge/Introduction%20to%20C%23-Simplilearn%20%C2%B7%20Aug%202026-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="Introduction to C# — Simplilearn, Aug 2026" />
+  <img src="https://img.shields.io/badge/.NET%2C%20AI%20%26%20Robotics-Gabera%20Foundation%20%C2%B7%20Aug%202026-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET, AI and Robotics — Gabera Foundation, Aug 2026" />
+</p>
+
+<h3 align="center">Flutter</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Certifications%20(5)-NextFlutter%20%C2%B7%20Jul%E2%80%93Sep%202026-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="5 Flutter Developer Certifications — NextFlutter, Jul–Sep 2026" />
+  <img src="https://img.shields.io/badge/FlutterHackathon%202026-Participant%20%C2%B7%20Sep%202026-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterHackathon 26 participant — Sep 2026" />
+</p>
+
+<h3 align="center">Web &amp; Mobile</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20%26%20Mobile-E-LEARNING%20POUR%20TOUS%20%C2%B7%20Sep%202026-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web and Mobile Development — E-LEARNING POUR TOUS, Sep 2026" />
+</p>
+
+<h3 align="center">Community &amp; Leadership</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Passport%20%26%20Ambassador-10000%20CODEURS%20%C2%B7%20Mar%E2%80%93Jun%202026-6E7681?style=for-the-badge&logo=handshake&logoColor=white" alt="Digital Passport and Ambassador Badge — 10000 CODEURS, Mar–Jun 2026" />
+</p>
+
+<h3 align="center">Other training</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Climate%20Change%20Policy-CILSS%20%2F%20AGRHYMET%20%C2%B7%20Sep%202026-2E7D32?style=for-the-badge" alt="Climate Change Policy Integration — CILSS / AGRHYMET, Sep 2026" />
+</p>
 
 <p align="center">
   <a href="https://akaletekoffilevis.github.io/#certifications">
