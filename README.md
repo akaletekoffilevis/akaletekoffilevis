@@ -3,14 +3,14 @@
 </p>
 
 <div align="center">
-  <img src="assets/profile.png" width="150" alt="Portrait of Koffi Lévis Akalete" />
+  <img src="assets/profile.png" width="220" alt="Portrait of Koffi Lévis Akalete" />
 
   <h1>Koffi Lévis Akalete</h1>
-  <h3>C# / .NET Developer · ASP.NET Core · Blazor</h3>
+  <h2>Junior Full Stack Developer · C# / .NET · Blazor</h2>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+focused+on+C%23+%2F+.NET;Secure+REST+APIs+with+ASP.NET+Core;Blazor+WebAssembly+applications;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+focused+on+C%23+%2F+.NET;Secure+REST+APIs+with+ASP.NET+Core;Blazor+WebAssembly+applications;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" alt="Full Stack Developer focused on C# and .NET, secure REST APIs with ASP.NET Core, Blazor WebAssembly applications, Flutter and React when needed, 10000 CODEURS Ambassador, open to remote opportunities" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&height=36&lines=Junior+Full+Stack+Developer;C%23+%2F+.NET+%C2%B7+ASP.NET+Core+%C2%B7+Blazor;Secure+REST+APIs+with+ASP.NET+Core;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=36&lines=Junior+Full+Stack+Developer;C%23+%2F+.NET+%C2%B7+ASP.NET+Core+%C2%B7+Blazor;Secure+REST+APIs+with+ASP.NET+Core;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" alt="Junior Full Stack Developer, C# and .NET, ASP.NET Core, Blazor, secure REST APIs, Flutter and React, 10000 CODEURS Ambassador, open to remote opportunities" />
   </picture>
 
   <br/><br/>
@@ -44,51 +44,55 @@
 
 <h2 align="center">About</h2>
 
-<p align="center">
-  I'm a <b>C# / .NET full stack developer</b> based in <b>Niamey, Niger</b>. My primary
-  stack is <b>C#</b>, <b>ASP.NET Core</b>, <b>Blazor</b>, <b>Entity Framework Core</b>
-  and <b>SQL Server</b>. I also build mobile applications with <b>Flutter</b> and web
-  interfaces with <b>React</b> and <b>Next.js</b> when needed.
-</p>
+<h3 align="center">
+  I'm a <b>Junior Full Stack Developer</b> based in <b>Niamey, Niger</b>, focused on
+  <b>C#</b> and the <b>.NET</b> ecosystem. My primary stack is <b>ASP.NET Core</b>,
+  <b>Blazor</b>, <b>Entity Framework Core</b> and <b>SQL Server</b>.
+</h3>
 
-<p align="center">
-  I care about clean architecture, secure authentication, automated tests and clear
-  documentation — the details that make software reliable, not just functional.
+<h3 align="center">
+  I also build mobile applications with <b>Flutter</b> and web interfaces with
+  <b>React</b> and <b>Next.js</b> when needed. I care about clean architecture,
+  secure authentication, automated tests and clear documentation — the details
+  that make software reliable, not just functional.
+</h3>
+
+<h3 align="center">
   I'm currently completing a <b>Licence in Mathematics and Computer Science</b> at
-  Université Abdou Moumouni and serving as a <b>10000 CODEURS Ambassador</b>, helping
-  other learners grow. I build in the open and document what I learn.
-</p>
+  Université Abdou Moumouni and serving as a <b>10000 CODEURS Ambassador</b>,
+  helping other learners grow.
+</h3>
 
-<table align="center">
-  <tr>
-    <td><b>Based in</b></td>
-    <td>Niamey, Niger · Remote-friendly</td>
-  </tr>
-  <tr>
-    <td><b>Primary stack</b></td>
-    <td>C# · ASP.NET Core · Blazor · EF Core · SQL Server</td>
-  </tr>
-  <tr>
-    <td><b>Education</b></td>
-    <td>Licence Math-Info, Université Abdou Moumouni (in progress)</td>
-  </tr>
-  <tr>
-    <td><b>Currently</b></td>
-    <td>Secure APIs and full-stack apps · Learning cloud, DevOps and system design</td>
-  </tr>
-  <tr>
-    <td><b>Community</b></td>
-    <td>10000 CODEURS Ambassador</td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>French (native) · English (professional)</td>
-  </tr>
-  <tr>
-    <td><b>Availability</b></td>
-    <td>Internships · Junior roles · Freelance · Remote</td>
-  </tr>
-</table>
+<h3 align="center">
+  <b>Based in</b> · Niamey, Niger — remote-friendly<br/>
+  <b>Primary stack</b> · C# · ASP.NET Core · Blazor · EF Core · SQL Server<br/>
+  <b>Education</b> · Licence Math-Info, Université Abdou Moumouni (in progress)<br/>
+  <b>Currently</b> · Secure APIs and full-stack apps · Learning cloud, DevOps and system design<br/>
+  <b>Community</b> · 10000 CODEURS Ambassador<br/>
+  <b>Spoken languages</b> · French (native) · English (professional)<br/>
+  <b>Availability</b> · Internships · Junior roles · Freelance · Remote
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="60%" alt="" />
+</div>
+
+<h2 align="center">Languages</h2>
+
+<h3 align="center">
+  <b>C#</b> · Primary language — REST APIs, Blazor, CLI tools and .NET applications<br/>
+  <b>TypeScript</b> · Next.js, React and Node.js<br/>
+  <b>JavaScript</b> · React, browser apps and Tauri frontends<br/>
+  <b>Dart</b> · Flutter mobile applications<br/>
+  <b>Python</b> · Automation, scripting and algorithms<br/>
+  <b>PHP</b> · Web development<br/>
+  <b>SQL</b> · SQL Server, PostgreSQL, MySQL and SQLite<br/>
+  <b>Rust</b> · Tauri desktop backend<br/>
+  <b>HTML / CSS</b> · Responsive interfaces<br/>
+  <b>Bash</b> · Scripting and deployment
+</h3>
 
 <br/>
 
@@ -111,11 +115,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
-<h3 align="center">Additional Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css&theme=dark" alt="JavaScript, TypeScript, Python, PHP, Go, HTML, CSS" />
-</p>
-
 <h3 align="center">Web &amp; Mobile</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart&theme=dark" alt="React, Next.js, Flutter, Dart" />
@@ -123,7 +122,7 @@
 
 <h3 align="center">Data &amp; Tooling</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,git,github,githubactions,linux,vscode,visualstudio&theme=dark" alt="PostgreSQL, MySQL, SQLite, Firebase, Docker, Git, GitHub, GitHub Actions, Linux, VS Code, Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,docker,git,github,githubactions,linux,vscode,visualstudio&theme=dark" alt="PostgreSQL, MySQL, SQLite, Firebase, Supabase, Docker, Git, GitHub, GitHub Actions, Linux, VS Code, Visual Studio" />
 </p>
 
 <br/>
@@ -134,57 +133,20 @@
 
 <h2 align="center">Certifications</h2>
 
-<p align="center">
+<h3 align="center">
   <i>13 credentials earned in 2026 across C#, .NET, Flutter and software engineering.</i>
-</p>
+</h3>
 
-<table align="center">
-  <tr>
-    <th align="left">Credential</th>
-    <th align="left">Issuer</th>
-    <th align="left">Date</th>
-  </tr>
-  <tr>
-    <td>Foundational C# with Microsoft</td>
-    <td>freeCodeCamp · Microsoft</td>
-    <td>Jan 2026</td>
-  </tr>
-  <tr>
-    <td>Flutter Developer Certifications (5)</td>
-    <td>NextFlutter</td>
-    <td>Jul–Sep 2026</td>
-  </tr>
-  <tr>
-    <td>Digital Passport &amp; Ambassador Badge</td>
-    <td>10000 CODEURS</td>
-    <td>Mar–Jun 2026</td>
-  </tr>
-  <tr>
-    <td>.NET, AI &amp; Robotics</td>
-    <td>Gabera Foundation</td>
-    <td>Aug 2026</td>
-  </tr>
-  <tr>
-    <td>Web &amp; Mobile Development</td>
-    <td>E-LEARNING POUR TOUS</td>
-    <td>Sep 2026</td>
-  </tr>
-  <tr>
-    <td>Introduction to C#</td>
-    <td>Simplilearn</td>
-    <td>Aug 2026</td>
-  </tr>
-  <tr>
-    <td>Climate Change Policy Integration</td>
-    <td>CILSS / AGRHYMET</td>
-    <td>Sep 2026</td>
-  </tr>
-  <tr>
-    <td>FlutterHackathon 26 — Participant</td>
-    <td>FlutterHackathon</td>
-    <td>Sep 2026</td>
-  </tr>
-</table>
+<h3 align="center">
+  <b>Foundational C# with Microsoft</b> · freeCodeCamp / Microsoft · Jan 2026<br/>
+  <b>Flutter Developer Certifications (5)</b> · NextFlutter · Jul–Sep 2026<br/>
+  <b>Digital Passport &amp; Ambassador Badge</b> · 10000 CODEURS · Mar–Jun 2026<br/>
+  <b>.NET, AI &amp; Robotics</b> · Gabera Foundation · Aug 2026<br/>
+  <b>Web &amp; Mobile Development</b> · E-LEARNING POUR TOUS · Sep 2026<br/>
+  <b>Introduction to C#</b> · Simplilearn · Aug 2026<br/>
+  <b>Climate Change Policy Integration</b> · CILSS / AGRHYMET · Sep 2026<br/>
+  <b>FlutterHackathon 26 — Participant</b> · FlutterHackathon · Sep 2026
+</h3>
 
 <p align="center">
   <a href="https://akaletekoffilevis.github.io/#certifications">
@@ -217,9 +179,13 @@
 
 <h2 align="center">Let's Connect</h2>
 
-<p align="center">
+<h3 align="center">
   <i>Open to internships, junior developer roles, freelance work and remote opportunities.</i>
-</p>
+</h3>
+
+<h3 align="center">
+  <a href="mailto:koffilevis21@gmail.com">koffilevis21@gmail.com</a>
+</h3>
 
 <p align="center">
   <a href="https://akaletekoffilevis.vercel.app">
