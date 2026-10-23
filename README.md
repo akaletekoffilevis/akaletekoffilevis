@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2F81F7&height=150&section=header" width="100%" alt="" />
   
-  <img src="assets/profile.png" width="200" alt="Koffi Lévis Akalete" style="margin-top: -50px;" />
+  <img src="assets/profile.png" width="220" alt="Koffi Lévis Akalete" style="margin-top: -60px;" />
   
-  <h1>Koffi Lévis Akalete</h1>
-  <h3>Junior Full Stack Developer | C# · .NET · ASP.NET Core · Blazor</h3>
+  <h1 style="font-size: 2.5em;">Koffi Lévis Akalete</h1>
+  <h2 style="font-size: 1.6em;">Junior Full Stack Developer | C# · .NET · ASP.NET Core · Blazor</h2>
   
   <p>
     <a href="https://akaletekoffilevis.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Vercel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Vercel" />
     </a>
     <a href="https://akaletekoffilevis.github.io">
-      <img src="https://img.shields.io/badge/Portfolio%20%28GitHub%20Pages%29-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub Pages" />
+      <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio GitHub Pages" />
     </a>
     <a href="https://linkedin.com/in/akalete-koffi-levis">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
