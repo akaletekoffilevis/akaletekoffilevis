@@ -6,11 +6,11 @@
   <img src="assets/profile.png" width="220" alt="Portrait of Koffi Lévis Akalete" />
 
   <h1>Koffi Lévis Akalete</h1>
-  <h2>Junior Full Stack Developer · C# / .NET · Blazor</h2>
+  <h2>Junior Full Stack Developer · C# / .NET</h2>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&height=36&lines=Junior+Full+Stack+Developer;C%23+%2F+.NET+%C2%B7+ASP.NET+Core+%C2%B7+Blazor;Secure+REST+APIs+with+ASP.NET+Core;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=36&lines=Junior+Full+Stack+Developer;C%23+%2F+.NET+%C2%B7+ASP.NET+Core+%C2%B7+Blazor;Secure+REST+APIs+with+ASP.NET+Core;Flutter+and+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" alt="Junior Full Stack Developer, C# and .NET, ASP.NET Core, Blazor, secure REST APIs, Flutter and React, 10000 CODEURS Ambassador, open to remote opportunities" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&height=36&lines=Junior+Full+Stack+Developer;C%23+%2F+.NET;ASP.NET+Core+%C2%B7+Blazor;Secure+REST+APIs;Flutter+%26+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=36&lines=Junior+Full+Stack+Developer;C%23+%2F+.NET;ASP.NET+Core+%C2%B7+Blazor;Secure+REST+APIs;Flutter+%26+React+when+needed;10000+CODEURS+Ambassador;Open+to+remote+opportunities" alt="Junior Full Stack Developer, C# and .NET, ASP.NET Core, Blazor, secure REST APIs, Flutter and React, 10000 CODEURS Ambassador, open to remote opportunities" />
   </picture>
 
   <br/><br/>
@@ -46,23 +46,23 @@
 
 <h3 align="center">
   I'm a <b>Junior Full Stack Developer</b> based in <b>Niamey, Niger</b>, focused on
-  <b>C#</b> and the <b>.NET</b> ecosystem. I build secure REST APIs with
-  <b>ASP.NET Core</b>, interactive interfaces with <b>Blazor</b>, and data layers with
+  <b>C#</b> and the <b>.NET</b> ecosystem. I build secure <b>REST APIs</b> with
+  <b>ASP.NET Core</b>, interactive frontend apps with <b>Blazor</b>, and data layers with
   <b>Entity Framework Core</b> and <b>SQL Server</b>.
 </h3>
 
 <h3 align="center">
   I also work with <b>Flutter</b>, <b>React</b> and <b>Next.js</b> when a project needs
-  mobile or web frontends. I care about clean architecture, secure authentication,
-  automated tests and clear documentation — the details that make software reliable,
-  not just functional.
+  mobile or additional web frontends. I care about clean architecture, secure
+  authentication, automated tests and clear documentation — the details that make
+  software reliable, not just functional.
 </h3>
 
 <h3 align="center">What I do</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-C%23%20%C2%B7%20.NET%20%C2%B7%20Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend: C#, .NET, Blazor" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%C2%B7%20Next.js-2F81F7?style=for-the-badge&logo=react&logoColor=white" alt="Frontend: React, Next.js" />
+  <img src="https://img.shields.io/badge/Backend-ASP.NET%20Core%20%C2%B7%20C%23%20%C2%B7%20EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend: ASP.NET Core, C#, EF Core" />
+  <img src="https://img.shields.io/badge/Frontend-Blazor%20%C2%B7%20React%20%C2%B7%20Next.js-2F81F7?style=for-the-badge&logo=blazor&logoColor=white" alt="Frontend: Blazor, React, Next.js" />
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%C2%B7%20Dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile: Flutter, Dart" />
 </p>
 
