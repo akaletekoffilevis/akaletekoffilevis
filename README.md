@@ -27,120 +27,124 @@
 
 <div align="center">
 
-## About Me
+## <span style="font-size: 1.6em;">About Me</span>
 
-I'm a **Junior Full Stack Developer** based in **Niamey, Niger**, passionate about building scalable, secure, and user-focused applications. I specialize in the **C# & .NET** ecosystem, developing robust backend APIs with **ASP.NET Core**, interactive UIs with **Blazor**, and cross-platform solutions with **Flutter**, **React**, and **Next.js**. 
+<p style="font-size: 1.15em;">
+I'm a <strong>Junior Full Stack Developer</strong> based in <strong>Niamey, Niger</strong>, passionate about building scalable, secure, and user-focused applications. I specialize in the <strong>C# & .NET</strong> ecosystem, developing robust backend APIs with <strong>ASP.NET Core</strong>, interactive UIs with <strong>Blazor</strong>, and cross-platform solutions with <strong>Flutter</strong>, <strong>React</strong>, and <strong>Next.js</strong>. 
 
 Focused on clean architecture, maintainable code, and delivering practical solutions that solve real problems.
+</p>
 
-## Tech Stack
+## <span style="font-size: 1.6em;">Tech Stack</span>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,nextjs,ts,js,flutter,dart,html,css&theme=dark" alt="Tech Stack" />
 
-## Skills
+## <span style="font-size: 1.6em;">Skills</span>
 
 <table>
   <tr>
-    <th>Domain</th>
-    <th>Expertise</th>
+    <th style="font-size: 1.1em;">Domain</th>
+    <th style="font-size: 1.1em;">Expertise</th>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center">C# • ASP.NET Core • Entity Framework Core • REST APIs • Authentication & Authorization</td>
+    <td align="center" style="font-size: 1.05em;"><strong>Backend</strong></td>
+    <td align="center" style="font-size: 1.05em;">C# • ASP.NET Core • Entity Framework Core • REST APIs • Authentication & Authorization</td>
   </tr>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center">Blazor • React • Next.js • TypeScript • JavaScript • HTML5 • CSS3</td>
+    <td align="center" style="font-size: 1.05em;"><strong>Frontend</strong></td>
+    <td align="center" style="font-size: 1.05em;">Blazor • React • Next.js • TypeScript • JavaScript • HTML5 • CSS3</td>
   </tr>
   <tr>
-    <td align="center"><strong>Mobile</strong></td>
-    <td align="center">Flutter • Dart</td>
+    <td align="center" style="font-size: 1.05em;"><strong>Mobile</strong></td>
+    <td align="center" style="font-size: 1.05em;">Flutter • Dart</td>
   </tr>
   <tr>
-    <td align="center"><strong>Database</strong></td>
-    <td align="center">SQL Server • PostgreSQL • MySQL • SQLite • Supabase</td>
+    <td align="center" style="font-size: 1.05em;"><strong>Database</strong></td>
+    <td align="center" style="font-size: 1.05em;">SQL Server • PostgreSQL • MySQL • SQLite • Supabase</td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps & Tools</strong></td>
-    <td align="center">Git • GitHub • Docker • Linux • VS Code • Visual Studio</td>
+    <td align="center" style="font-size: 1.05em;"><strong>DevOps & Tools</strong></td>
+    <td align="center" style="font-size: 1.05em;">Git • GitHub • Docker • Linux • VS Code • Visual Studio</td>
   </tr>
 </table>
 
-## Languages
+## <span style="font-size: 1.6em;">Languages</span>
 
-`C#` • `TypeScript` • `JavaScript` • `Dart` • `Python` • `PHP` • `SQL` • `Rust` • `Bash`
+<p style="font-size: 1.15em;">`C#` • `TypeScript` • `JavaScript` • `Dart` • `Python` • `PHP` • `SQL` • `Rust` • `Bash`</p>
 
-## Education & Certifications
+## <span style="font-size: 1.6em;">Education & Certifications</span>
 
 <table>
   <tr>
-    <th>Certification</th>
-    <th>Issuer</th>
-    <th>Date</th>
+    <th style="font-size: 1.1em;">Certification</th>
+    <th style="font-size: 1.1em;">Issuer</th>
+    <th style="font-size: 1.1em;">Date</th>
   </tr>
   <tr>
-    <td><strong>Foundational C# with Microsoft</strong></td>
-    <td>freeCodeCamp / Microsoft</td>
-    <td align="center">Jan 2026</td>
+    <td style="font-size: 1.05em;"><strong>Foundational C# with Microsoft</strong></td>
+    <td style="font-size: 1.05em;">freeCodeCamp / Microsoft</td>
+    <td align="center" style="font-size: 1.05em;">Jan 2026</td>
   </tr>
   <tr>
-    <td><strong>Introduction to C#</strong></td>
-    <td>Simplilearn</td>
-    <td align="center">Aug 2026</td>
+    <td style="font-size: 1.05em;"><strong>Introduction to C#</strong></td>
+    <td style="font-size: 1.05em;">Simplilearn</td>
+    <td align="center" style="font-size: 1.05em;">Aug 2026</td>
   </tr>
   <tr>
-    <td><strong>.NET, AI & Robotics</strong></td>
-    <td>Gabera Foundation</td>
-    <td align="center">Aug 2026</td>
+    <td style="font-size: 1.05em;"><strong>.NET, AI & Robotics</strong></td>
+    <td style="font-size: 1.05em;">Gabera Foundation</td>
+    <td align="center" style="font-size: 1.05em;">Aug 2026</td>
   </tr>
   <tr>
-    <td><strong>Flutter Developer Certifications (5)</strong></td>
-    <td>NextFlutter</td>
-    <td align="center">Jul–Sep 2026</td>
+    <td style="font-size: 1.05em;"><strong>Flutter Developer Certifications (5)</strong></td>
+    <td style="font-size: 1.05em;">NextFlutter</td>
+    <td align="center" style="font-size: 1.05em;">Jul–Sep 2026</td>
   </tr>
   <tr>
-    <td><strong>Web & Mobile Development</strong></td>
-    <td>E-LEARNING POUR TOUS</td>
-    <td align="center">Sep 2026</td>
+    <td style="font-size: 1.05em;"><strong>Web & Mobile Development</strong></td>
+    <td style="font-size: 1.05em;">E-LEARNING POUR TOUS</td>
+    <td align="center" style="font-size: 1.05em;">Sep 2026</td>
   </tr>
   <tr>
-    <td><strong>FlutterHackathon 26</strong></td>
-    <td>FlutterHackathon</td>
-    <td align="center">Sep 2026</td>
+    <td style="font-size: 1.05em;"><strong>FlutterHackathon 26</strong></td>
+    <td style="font-size: 1.05em;">FlutterHackathon</td>
+    <td align="center" style="font-size: 1.05em;">Sep 2026</td>
   </tr>
   <tr>
-    <td><strong>Digital Passport & Ambassador Badge</strong></td>
-    <td>10000 CODEURS</td>
-    <td align="center">Mar–Jun 2026</td>
+    <td style="font-size: 1.05em;"><strong>Digital Passport & Ambassador Badge</strong></td>
+    <td style="font-size: 1.05em;">10000 CODEURS</td>
+    <td align="center" style="font-size: 1.05em;">Mar–Jun 2026</td>
   </tr>
   <tr>
-    <td><strong>Climate Change Policy Integration</strong></td>
-    <td>CILSS / AGRHYMET</td>
-    <td align="center">Sep 2026</td>
+    <td style="font-size: 1.05em;"><strong>Climate Change Policy Integration</strong></td>
+    <td style="font-size: 1.05em;">CILSS / AGRHYMET</td>
+    <td align="center" style="font-size: 1.05em;">Sep 2026</td>
   </tr>
 </table>
 
-## Quick Info
+## <span style="font-size: 1.6em;">Quick Info</span>
 
-- **Location:** Niamey, Niger • *Open to Remote Opportunities*
-- **Education:** Licence in Mathematics & Computer Science - Université Abdou Moumouni *(In Progress)*
-- **Community:** 10000 CODEURS Ambassador
-- **Languages:** French *(Native)* • English *(Professional)*
+<p style="font-size: 1.1em;">
+- <strong>Location:</strong> Niamey, Niger • <em>Open to Remote Opportunities</em><br/>
+- <strong>Education:</strong> Licence in Mathematics & Computer Science - Université Abdou Moumouni <em>(In Progress)</em><br/>
+- <strong>Community:</strong> 10000 CODEURS Ambassador<br/>
+- <strong>Languages:</strong> French <em>(Native)</em> • English <em>(Professional)</em>
+</p>
 
 <a href="https://akaletekoffilevis.github.io/#certifications">
   <img src="https://img.shields.io/badge/View%20All%20Certificates-2F81F7?style=for-the-badge&logo=googledocs&logoColor=white" alt="View All Certificates" />
 </a>
 
-## GitHub Analytics
+## <span style="font-size: 1.6em;">GitHub Analytics</span>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akaletekoffilevis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaletekoffilevis&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akaletekoffilevis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaletekoffilevis&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=akaletekoffilevis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=akaletekoffilevis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## Let's Connect
+## <span style="font-size: 1.6em;">Let's Connect</span>
 
-<p>Open to internships, junior developer roles, freelance projects & remote opportunities.</p>
+<p style="font-size: 1.1em;">Open to internships, junior developer roles, freelance projects & remote opportunities.</p>
 
 <a href="mailto:koffilevis21@gmail.com">
   <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
